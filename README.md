@@ -1,5 +1,6 @@
-🤓🖌️ | **ABOUT ME:**
-|-------------------------|
+🤓| **ABOUT ME:**
+
+-------------------------|
 
 
 
@@ -40,18 +41,21 @@
  
  
  ⚡🤝 | **COLLABORATIONS AND QUESTS:**
+ 
  ----------------------------------------|
 
 Open to collaborations for creating digital masterpieces. Let's connect and create together!
 
 
  🏫 📚 | **IN PURSUIT OF KNOWLEDGE:**
+ 
  ------------------------------------|
 
 Currently diving into web design, mastering HTML, CSS, and JS concepts, crafting adaptable layouts, and creating visually appealing designs.
 
 
  📞📫 | **LET US CONNECT:**
+
  -------------------------------|
 
 Feel free to reach out at [workpays77@gmail.com](mailto:workpays77@gmail.com) or by phone 330-388-3553 questions concernsor just wantedshare your ideasor collaborate 
