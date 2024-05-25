@@ -4,6 +4,9 @@ Welcome to my lair of digital creativity, where code meets canvas, where darknes
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
+
+
+
 ### Languages
 
  ![Python](https://img.shields.io/badge/language-Python-blue) 
@@ -29,11 +32,11 @@ Welcome to my lair of digital creativity, where code meets canvas, where darknes
  ![React](https://img.shields.io/badge/library-React-purple)
  ![Angular](https://img.shields.io/badge/framework-Angular-red)
  ![Node.js](https://img.shields.io/badge/runtime-Node.js-green)
- --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
- 
+
  
  
  ⚡🤝 | **COLLABORATIONS AND QUESTS:**
@@ -52,6 +55,9 @@ Currently diving into web design, mastering HTML, CSS, and JS concepts, crafting
 Feel free to reach out at [workpays77@gmail.com](mailto:workpays77@gmail.com) or by phone 330-388-3553 questions concernsor just wantedshare your ideasor collaborate 
 and discuss potential projects.
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 "As a versatile professional in web development, photography, and graphic design, I bring a unique blend of creativity and technical expertise to every project. With a passion for music, art, across all movments, I infuse my work with a diverse range of inspirations. Let's collaborate and bring your ideas to life."
